@@ -1,0 +1,5 @@
+# .gitignore
+mysql-connector-j-8.2.0/
+mysql-connector-java/
+mysql-connector-java-5.1.45/
+
